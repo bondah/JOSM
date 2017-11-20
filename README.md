@@ -1,4 +1,4 @@
-## Follow along at: [https://maptimela.github.io/JOSM](https://maptimela.github.io/JOSM)
+## Follow along at: [https://bondah.github.io/JOSM](https://bondah.github.io/JOSM)
 
 # Objective
 In this tutorial we will learn: 
